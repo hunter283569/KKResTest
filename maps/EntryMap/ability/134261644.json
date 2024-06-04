@@ -1,0 +1,397 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1065070595": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "SFX_KEY", 
+                                        "\u8d77\u624b\u7279\u6548", 
+                                        "actor"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100066, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "\u8d77\u624b\u7279\u6548"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_SFX_KEY_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1907503106002906, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "SFX_KEY", 
+                                        "\u547d\u4e2d\u7279\u6548", 
+                                        "actor"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100066, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "\u547d\u4e2d\u7279\u6548"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_SFX_KEY_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1907503106002909, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1065070595000002, 
+                    "enable": true, 
+                    "event_type": "ABILITY_OBTAIN"
+                }
+            ], 
+            "group_id": 134261644, 
+            "p_trigger_id": null, 
+            "trigger_id": 1065070595, 
+            "trigger_name": "\u83b7\u5f97\u6280\u80fd", 
+            "valid": true
+        }, 
+        "1333309442": {
+            "action": [
+                {
+                    "action_type": "CREATE_SFX_ON_POINT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100066, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "SFX_KEY", 
+                                        "\u8d77\u624b\u7279\u6548", 
+                                        "actor"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 4
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "ABILITY_OWNER"
+                                }
+                            ], 
+                            "sub_type": "UNIT_ENTITY_POINT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 541302792000781, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                300.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        true, 
+                        false, 
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1333309442000002, 
+                    "enable": true, 
+                    "event_type": "ABILITY_PS_START"
+                }
+            ], 
+            "group_id": 134261644, 
+            "p_trigger_id": null, 
+            "trigger_id": 1333309442, 
+            "trigger_name": "\u65bd\u6cd5\u5f00\u59cb", 
+            "valid": true
+        }, 
+        "1383215105": {
+            "action": [
+                {
+                    "action_type": "CREATE_SFX_ON_POINT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100066, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "SFX_KEY", 
+                                        "\u547d\u4e2d\u7279\u6548", 
+                                        "actor"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 4
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }
+                            ], 
+                            "sub_type": "ABILITY_RELEASE_POSITION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 541302792000781, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                300.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        true, 
+                        false, 
+                        false
+                    ]
+                }, 
+                {
+                    "action_type": "TRANS_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "ABILITY_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }
+                            ], 
+                            "sub_type": "ABILITY_RELEASE_POSITION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1383215105000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_RELEASE_COMMAND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100216, 
+                            "args_list": [], 
+                            "sub_type": "UNIT_COMMAND_STOP"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1383215105000784, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1383215105000002, 
+                    "enable": true, 
+                    "event_type": "ABILITY_SP_END"
+                }
+            ], 
+            "group_id": 134261644, 
+            "p_trigger_id": null, 
+            "trigger_id": 1383215105, 
+            "trigger_name": "\u65bd\u6cd5\u51fa\u624b", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1065070595, 
+                        "\u83b7\u5f97\u6280\u80fd"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1333309442, 
+                        "\u65bd\u6cd5\u5f00\u59cb"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1383215105, 
+                        "\u65bd\u6cd5\u51fa\u624b"
+                    ]
+                }
+            ], 
+            "key": 134261644, 
+            "name": "134261644"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "SFX_ENTITY": {
+            "\u5f15\u5bfc\u6301\u7eed\u7279\u6548": 0
+        }, 
+        "SFX_KEY": {
+            "\u547d\u4e2d\u7279\u6548": 0, 
+            "\u8d77\u624b\u7279\u6548": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8d77\u624b\u7279\u6548", 
+                "\u8d77\u624b\u7279\u6548"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u547d\u4e2d\u7279\u6548", 
+                "\u547d\u4e2d\u7279\u6548"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f15\u5bfc\u6301\u7eed\u7279\u6548", 
+                "\u5f15\u5bfc\u6301\u7eed\u7279\u6548"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u547d\u4e2d\u7279\u6548": 0, 
+        "\u5f15\u5bfc\u6301\u7eed\u7279\u6548": 0, 
+        "\u8d77\u624b\u7279\u6548": 0
+    }
+}

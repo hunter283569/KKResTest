@@ -1,0 +1,127 @@
+{
+    "local_variable": {
+        "797970433": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "797970433": {
+            "action": [
+                {
+                    "action_type": "BREAK_ABILITY_CS", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 797970433000042, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER", 
+                                        "\u5f53\u524d\u73a9\u5bb6", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "ABILITY_OWNER"
+                                }
+                            ], 
+                            "sub_type": "OWNER_PLAYER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 797970433000005, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 797970433000025, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 797970433000040, 
+                    "enable": true, 
+                    "event_type": "ABILITY_CS_START"
+                }
+            ], 
+            "group_id": 134243349, 
+            "p_trigger_id": null, 
+            "trigger_id": 797970433, 
+            "trigger_name": "\u65bd\u6cd5\u51fa\u624b", 
+            "valid": false
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        797970433, 
+                        "\u65bd\u6cd5\u51fa\u624b"
+                    ]
+                }
+            ], 
+            "key": 134243349, 
+            "name": "134243349"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "SFX_KEY": {
+            "\u547d\u4e2d\u7279\u6548": 0, 
+            "\u8d77\u624b\u7279\u6548": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8d77\u624b\u7279\u6548", 
+                "\u8d77\u624b\u7279\u6548"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u547d\u4e2d\u7279\u6548", 
+                "\u547d\u4e2d\u7279\u6548"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u547d\u4e2d\u7279\u6548": 0, 
+        "\u8d77\u624b\u7279\u6548": 0
+    }
+}

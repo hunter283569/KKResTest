@@ -1,0 +1,74 @@
+{
+    "action": [
+        [
+            1576799385, 
+            "加入游戏超时", 
+            1028100116, 
+            "action_type"
+        ], 
+        {
+            "action_type": "PLAYER_ADD_TO_GROUP", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [], 
+                    "sub_type": "TRIGGER_PLAYER"
+                }, 
+                {
+                    "arg_type": 100027, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "PLAYER_GROUP", 
+                                "G玩家组"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 14
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1028100116951533, 
+            "enable": true
+        }, 
+        {
+            "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+            "args_list": [
+                {
+                    "arg_type": 100175, 
+                    "args_list": [
+                        3
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "玩家初始化~~~~~~~~~~1"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1028100116951798, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [], 
+            "element_id": 1028100116000002, 
+            "enable": true, 
+            "event_type": "ANY_ROLE_JOIN_GAME"
+        }
+    ], 
+    "group_id": "+ZProXSpEe6lYzDQQukOhV", 
+    "p_trigger_id": null, 
+    "trigger_id": 1028100116, 
+    "trigger_name": "玩家加入", 
+    "valid": true
+}

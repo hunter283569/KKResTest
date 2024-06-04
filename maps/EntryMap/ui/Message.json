@@ -1,0 +1,378 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {
+        "a216a99b-03cd-4335-8513-8e78690d2497": {
+            "anim_name": "sysShow", 
+            "dt": [
+                {
+                    "dt": [
+                        {
+                            "dt": {
+                                "0": {
+                                    "val": 1.0
+                                }, 
+                                "60": {
+                                    "val": 1.0
+                                }, 
+                                "75": {
+                                    "val": 0.0
+                                }
+                            }, 
+                            "tp": 4
+                        }, 
+                        {
+                            "dt": {
+                                "0": {
+                                    "val": true
+                                }, 
+                                "75": {
+                                    "val": false
+                                }
+                            }, 
+                            "tp": 5
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "be9bd975-e807-4793-9da1-bacd3985c0f7"
+                }
+            ], 
+            "event_data": {}, 
+            "f_rt": 30, 
+            "group": "afbdf1b6-04a5-44d3-80ef-f1e2c30aacc1", 
+            "lp": false, 
+            "max_frame": 100
+        }, 
+        "b7596f27-941e-47a0-a4cf-445cc5602c42": {
+            "anim_name": "msgShow", 
+            "dt": [
+                {
+                    "dt": [
+                        {
+                            "dt": {
+                                "0": {
+                                    "val": 0.5
+                                }, 
+                                "5": {
+                                    "val": 1.0
+                                }, 
+                                "60": {
+                                    "val": 1.0
+                                }, 
+                                "90": {
+                                    "val": 0.0
+                                }
+                            }, 
+                            "tp": 4
+                        }, 
+                        {
+                            "dt": {
+                                "0": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            0.5, 
+                                            0.5
+                                        ]
+                                    }
+                                }, 
+                                "5": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.2, 
+                                            1.2
+                                        ]
+                                    }
+                                }, 
+                                "7": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.0, 
+                                            1.0
+                                        ]
+                                    }
+                                }, 
+                                "10": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.0, 
+                                            1.0
+                                        ]
+                                    }
+                                }, 
+                                "15": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.0, 
+                                            1.0
+                                        ]
+                                    }
+                                }, 
+                                "20": {
+                                    "val": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.0, 
+                                            1.0
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "tp": 2
+                        }, 
+                        {
+                            "dt": {
+                                "0": {
+                                    "val": true
+                                }, 
+                                "60": {
+                                    "val": false
+                                }, 
+                                "90": {
+                                    "val": false
+                                }
+                            }, 
+                            "tp": 5
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "5119b978-2632-481e-b715-4110c85addc1"
+                }
+            ], 
+            "event_data": {}, 
+            "f_rt": 30, 
+            "group": "afbdf1b6-04a5-44d3-80ef-f1e2c30aacc1", 
+            "lp": false, 
+            "max_frame": 60
+        }
+    }, 
+    "children": [
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    62.0, 
+                    25.0, 
+                    62.0, 
+                    25.0
+                ]
+            }, 
+            "children": [
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            35, 
+                            64, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            false, 
+                            false, 
+                            false, 
+                            true, 
+                            false
+                        ]
+                    }, 
+                    "name": "msgText", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            180.0, 
+                            20.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.1393, 
+                            58.8235
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "shadow": true, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            337.0, 
+                            30.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u8239\u957f\u88c5\u5907\u5df2\u6ee1\uff0c\u8bf7\u53cc\u51fb\u5378\u4e0b", 
+                            false
+                        ]
+                    }, 
+                    "text_shadow_offset": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            -1
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "ce718b6b-d4d9-44ec-9a15-0c02e029d28d"
+                }
+            ], 
+            "event_list": [], 
+            "image": 131914, 
+            "name": "BG", 
+            "opacity": 0.5, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    397.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    36.7593
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    359.0, 
+                    34.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "5119b978-2632-481e-b715-4110c85addc1", 
+            "visible": false
+        }, 
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    117.0, 
+                    34.0, 
+                    117.0, 
+                    34.0
+                ]
+            }, 
+            "children": [
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            20
+                        ]
+                    }, 
+                    "name": "msgText", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            445.0, 
+                            17.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            875.0, 
+                            27.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "<html><body><p>123<span style=\"font-weight:600;\">1231</span>231<span style=\"color:#afe485;\">231231231</span></p></body></html>", 
+                            false
+                        ]
+                    }, 
+                    "type": 26, 
+                    "uid": "11dd5c2e-9224-4999-8187-cfba3cd7a595"
+                }
+            ], 
+            "event_list": [], 
+            "image": 101092, 
+            "name": "SYSTEM", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    831.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    76.9444
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    890.0, 
+                    34.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "be9bd975-e807-4793-9da1-bacd3985c0f7", 
+            "visible": false
+        }
+    ], 
+    "name": "Message", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [
+        "b7596f27-941e-47a0-a4cf-445cc5602c42", 
+        "a216a99b-03cd-4335-8513-8e78690d2497"
+    ], 
+    "uid": "afbdf1b6-04a5-44d3-80ef-f1e2c30aacc1", 
+    "visible": true, 
+    "zorder": 1000
+}

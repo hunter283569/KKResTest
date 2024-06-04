@@ -1,0 +1,527 @@
+{
+    "1aae5912-50f0-4321-9703-bb95ff597423": {
+        "anim_name": "\u9009\u96be\u5ea6\u6e10\u51fa", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 1.0
+                            }, 
+                            "15": {
+                                "val": 0.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "15": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "0369532e-52f6-4a6b-8a7e-14e690a02685"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "c782c441-41a2-4b23-9865-732dd4fc2f6c", 
+        "lp": false, 
+        "max_frame": 15
+    }, 
+    "3193dfcf-5274-4776-928e-75c4ae71934a": {
+        "anim_name": "\u9009\u8239\u957f\u6e10\u5165", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": false
+                            }, 
+                            "15": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "c4934726-3eef-4222-9c69-aed08a0ff3ee"
+            }, 
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": false
+                            }, 
+                            "15": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "9a4d4ac2-03fc-409c-ac38-da4628a2e5b3"
+            }, 
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 0.0
+                            }, 
+                            "15": {
+                                "val": 1.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "15": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "8214ff95-5868-4c20-9376-227861fd8473"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "e6c1564e-6709-4193-8cc3-9144cfd3cbf4", 
+        "lp": false, 
+        "max_frame": 15
+    }, 
+    "6036d541-889b-482b-bba7-fc8f8a30e2ac": {
+        "anim_name": "LOGO\u8fdb\u5165", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        80.0925925925926, 
+                                        960.0, 
+                                        865.0
+                                    ]
+                                }
+                            }, 
+                            "20": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        70.83333333333334, 
+                                        960.0, 
+                                        765.0
+                                    ]
+                                }
+                            }
+                        }, 
+                        "tp": 1
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 0.7
+                            }, 
+                            "20": {
+                                "val": 1.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "0f17b6c2-cf2b-49fe-9ad6-e739d90470d1"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "c782c441-41a2-4b23-9865-732dd4fc2f6c", 
+        "lp": false, 
+        "max_frame": 100
+    }, 
+    "866ed7fe-db19-4263-b29c-8ddaee90ba78": {
+        "anim_name": "\u9009\u96be\u5ea6\u6e10\u5165", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 0.0
+                            }, 
+                            "15": {
+                                "val": 1.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "0369532e-52f6-4a6b-8a7e-14e690a02685"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "c782c441-41a2-4b23-9865-732dd4fc2f6c", 
+        "lp": false, 
+        "max_frame": 15
+    }, 
+    "871ae630-8afd-456f-81c1-7997710a70b9": {
+        "anim_name": "\u6309\u952e\u7ee7\u7eed", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 1.0
+                            }, 
+                            "45": {
+                                "val": 0.75
+                            }, 
+                            "90": {
+                                "val": 1.0
+                            }, 
+                            "119": {
+                                "val": 1.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "c9b1ef6e-6e8d-4df8-b891-ca6e57ea97a7"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 60, 
+        "group": "c782c441-41a2-4b23-9865-732dd4fc2f6c", 
+        "lp": false, 
+        "max_frame": 90
+    }, 
+    "a216a99b-03cd-4335-8513-8e78690d2497": {
+        "anim_name": "sysShow", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 1.0
+                            }, 
+                            "60": {
+                                "val": 1.0
+                            }, 
+                            "75": {
+                                "val": 0.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "75": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "be9bd975-e807-4793-9da1-bacd3985c0f7"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "afbdf1b6-04a5-44d3-80ef-f1e2c30aacc1", 
+        "lp": false, 
+        "max_frame": 100
+    }, 
+    "b7596f27-941e-47a0-a4cf-445cc5602c42": {
+        "anim_name": "msgShow", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 0.5
+                            }, 
+                            "5": {
+                                "val": 1.0
+                            }, 
+                            "60": {
+                                "val": 1.0
+                            }, 
+                            "90": {
+                                "val": 0.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        0.5, 
+                                        0.5
+                                    ]
+                                }
+                            }, 
+                            "5": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.2, 
+                                        1.2
+                                    ]
+                                }
+                            }, 
+                            "7": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.0, 
+                                        1.0
+                                    ]
+                                }
+                            }, 
+                            "10": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.0, 
+                                        1.0
+                                    ]
+                                }
+                            }, 
+                            "15": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.0, 
+                                        1.0
+                                    ]
+                                }
+                            }, 
+                            "20": {
+                                "val": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.0, 
+                                        1.0
+                                    ]
+                                }
+                            }
+                        }, 
+                        "tp": 2
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "60": {
+                                "val": false
+                            }, 
+                            "90": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "5119b978-2632-481e-b715-4110c85addc1"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "afbdf1b6-04a5-44d3-80ef-f1e2c30aacc1", 
+        "lp": false, 
+        "max_frame": 60
+    }, 
+    "d46e5b2b-104f-47ac-9e4e-68353ad6e6d2": {
+        "anim_name": "\u8fdb\u5165\u6e10\u51fa", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": [
+                                    50.0, 
+                                    50.0, 
+                                    960.0, 
+                                    540.0
+                                ]
+                            }
+                        }, 
+                        "tp": 1
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 1.0
+                            }, 
+                            "15": {
+                                "val": 0.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "15": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "92da27c0-d874-466d-990b-29ca543acf6b"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "c782c441-41a2-4b23-9865-732dd4fc2f6c", 
+        "lp": false, 
+        "max_frame": 100
+    }, 
+    "e4f542c7-1acd-47ed-9f5f-b2822b9a6ea7": {
+        "anim_name": "\u9009\u8239\u957f\u6e10\u51fa", 
+        "dt": [
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": [
+                                    50.05208333333333, 
+                                    49.907407407407405, 
+                                    961.0, 
+                                    539.0
+                                ]
+                            }
+                        }, 
+                        "tp": 1
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": 1.0
+                            }, 
+                            "15": {
+                                "val": 0.0
+                            }
+                        }, 
+                        "tp": 4
+                    }, 
+                    {
+                        "dt": {
+                            "0": {
+                                "val": true
+                            }, 
+                            "15": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "8214ff95-5868-4c20-9376-227861fd8473"
+            }, 
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "c4934726-3eef-4222-9c69-aed08a0ff3ee"
+            }, 
+            {
+                "dt": [
+                    {
+                        "dt": {
+                            "0": {
+                                "val": false
+                            }
+                        }, 
+                        "tp": 5
+                    }
+                ], 
+                "enabled": true, 
+                "name": "9a4d4ac2-03fc-409c-ac38-da4628a2e5b3"
+            }
+        ], 
+        "event_data": {}, 
+        "f_rt": 30, 
+        "group": "e6c1564e-6709-4193-8cc3-9144cfd3cbf4", 
+        "lp": false, 
+        "max_frame": 15
+    }
+}

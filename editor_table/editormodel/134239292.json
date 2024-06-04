@@ -1,0 +1,202 @@
+{
+    "describe": "test_describe", 
+    "key": 134239292, 
+    "md5": "a061f3d4eec4a569ef2099ab41183c44", 
+    "model_id": 134239292, 
+    "name": "fanchuan", 
+    "preview_icon": "UP1ModelPreview/134239292", 
+    "preview_item": {
+        "key": 134239292, 
+        "path": "UP1ModelPreview/134239292", 
+        "size": "100X68"
+    }, 
+    "res_type": "kkres", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "water": {
+            "__tuple__": true, 
+            "items": [
+                "water", 
+                "Scene Root", 
+                0.0, 
+                -0.35000000000000003, 
+                -1.8, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "\u53f3\u70ae1": {
+            "__tuple__": true, 
+            "items": [
+                "\u53f3\u70ae1", 
+                "Scene Root", 
+                -0.6, 
+                0.0, 
+                0.3, 
+                0.0, 
+                3.141592653589793, 
+                0.0
+            ]
+        }, 
+        "\u53f3\u70ae2": {
+            "__tuple__": true, 
+            "items": [
+                "\u53f3\u70ae2", 
+                "Scene Root", 
+                -0.6, 
+                0.0, 
+                -0.35000000000000003, 
+                0.0, 
+                3.141592653589793, 
+                0.0
+            ]
+        }, 
+        "\u53f3\u70ae3": {
+            "__tuple__": true, 
+            "items": [
+                "\u53f3\u70ae3", 
+                "Scene Root", 
+                -0.6, 
+                0.0, 
+                -1.0, 
+                0.0, 
+                3.141592653589793, 
+                0.0
+            ]
+        }, 
+        "\u5de6\u70ae1": {
+            "__tuple__": true, 
+            "items": [
+                "\u5de6\u70ae1", 
+                "Scene Root", 
+                0.6, 
+                0.0, 
+                0.3, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "\u5de6\u70ae2": {
+            "__tuple__": true, 
+            "items": [
+                "\u5de6\u70ae2", 
+                "Scene Root", 
+                0.6, 
+                0.0, 
+                -0.35000000000000003, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "\u5de6\u70ae3": {
+            "__tuple__": true, 
+            "items": [
+                "\u5de6\u70ae3", 
+                "Scene Root", 
+                0.6, 
+                0.0, 
+                -1.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "uid": 134239292, 
+    "version": 1
+}

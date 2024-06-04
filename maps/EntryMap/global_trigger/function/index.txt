@@ -1,0 +1,11 @@
+{
+    "主页UI相关.folder": 1, 
+    "功能类.folder": 8, 
+    "单位相关.folder": 3, 
+    "工具函数.folder": 4, 
+    "怪物相关函数.folder": 5, 
+    "技能相关.folder": 6, 
+    "游戏流程.folder": 0, 
+    "物品相关.folder": 7, 
+    "玩家相关.folder": 2
+}

@@ -1,0 +1,387 @@
+{
+    "b": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u5965\u672f", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "hp_max", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u751f\u547d\u503c", 
+                    "maximun": 70000000000000, 
+                    "minimun": 1.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "mp_max", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u6280\u80fd\u8d44\u6e90", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "hp_rec", 
+                {
+                    "default": 1.0, 
+                    "desc": "\u751f\u547d\u6062\u590d", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "mp_rec", 
+                {
+                    "default": 1.0, 
+                    "desc": "\u6280\u80fd\u8d44\u6e90\u6062\u590d", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "attack_phy", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u7406\u653b\u51fb\u529b", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "attack_mag", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u672f\u653b\u51fb\u529b", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "defense_phy", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u7406\u9632\u5fa1\u529b", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "defense_mag", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u672f\u9632\u5fa1\u529b", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "attack_speed", 
+                {
+                    "default": 100.0, 
+                    "desc": "\u653b\u51fb\u901f\u5ea6(%)", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "critical_dmg", 
+                {
+                    "default": 200.0, 
+                    "desc": "\u66b4\u51fb\u4f24\u5bb3(%)", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u8be1\u79d8", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u5a01\u80fd", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "vampire_mag", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u672f\u5438\u8840(%)", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "vampire_phy", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u7406\u5438\u8840(%)", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "critical_chance", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u66b4\u51fb\u7387(%)", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "dodge_rate", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u8eb2\u907f\u7387(%)", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "hit_rate", 
+                {
+                    "default": 100.0, 
+                    "desc": "\u547d\u4e2d\u7387(%)", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "cd_reduce", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u51b7\u5374\u7f29\u51cf(%)", 
+                    "maximun": 100.0, 
+                    "minimun": -100.0
+                }
+            ]
+        }
+    ], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "96srgOk2Ee6HEXRWPDhWYp", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u4f24\u51cf\u514d%", 
+                    "desc_bit": 1, 
+                    "key": "96srgOk2Ee6HEXRWPDhWYp", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "7-nmcAkVEe+E9nRWPDhWYm", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u4f24\u51cf\u514d%", 
+                    "desc_bit": 1, 
+                    "key": "7-nmcAkVEe+E9nRWPDhWYm", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "8xhkgAkVEe+lZnRWPDhWYp", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u4f24\u52a0\u6210%", 
+                    "desc_bit": 1, 
+                    "key": "8xhkgAkVEe+lZnRWPDhWYp", 
+                    "maximun": 0.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "9eL2LgkVEe+VAnRWPDhWYl", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u4f24\u52a0\u6210%", 
+                    "desc_bit": 1, 
+                    "key": "9eL2LgkVEe+VAnRWPDhWYl", 
+                    "maximun": 0.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "YLBUMCDbEe+si3RWPDhWYl", 
+                {
+                    "default": 90.0, 
+                    "desc": "\u5c04\u51fb\u5939\u89d2", 
+                    "desc_bit": 1, 
+                    "key": "YLBUMCDbEe+si3RWPDhWYl", 
+                    "maximun": 180.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u5a01\u80fd", 
+                    "k": "strength", 
+                    "m": [
+                        [
+                            "defense_phy", 
+                            0.1
+                        ], 
+                        [
+                            "hp_max", 
+                            20.0
+                        ]
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u8be1\u79d8", 
+                    "k": "agility", 
+                    "m": [
+                        [
+                            "hp_max", 
+                            20.0
+                        ], 
+                        [
+                            "defense_mag", 
+                            0.05
+                        ], 
+                        [
+                            "defense_phy", 
+                            0.05
+                        ]
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u5965\u672f", 
+                    "k": "intelligence", 
+                    "m": [
+                        [
+                            "defense_mag", 
+                            0.1
+                        ], 
+                        [
+                            "hp_max", 
+                            20.0
+                        ]
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 2
+}

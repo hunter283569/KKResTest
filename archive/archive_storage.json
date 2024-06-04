@@ -1,0 +1,42 @@
+{
+    "1": {
+        "role_id": -1, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "test_account1": {
+        "role_id": -2, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "test_account2": {
+        "role_id": -3, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "test_account3": {
+        "role_id": -4, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "主公带我飞": {
+        "role_id": -5, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "呆头老婆跑了": {
+        "role_id": -6, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "笑舞狂歌": {
+        "role_id": 1, 
+        "archive": {}, 
+        "platform_prop": {}
+    }, 
+    "京哲小菜鸡": {
+        "role_id": -7, 
+        "archive": {}, 
+        "platform_prop": {}
+    }
+}

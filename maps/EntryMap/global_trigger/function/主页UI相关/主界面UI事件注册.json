@@ -1,0 +1,80 @@
+{
+    "action": [
+        [
+            1394767880, 
+            "仓库配件装备等界面事件", 
+            419496041, 
+            "action_type"
+        ], 
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "6529074fe35f11eeb8df74563c385662"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 1028100116950218, 
+            "enable": true
+        }, 
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "9fc22430ec3011ee86d400ff9ff41afb"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 1028100116951231, 
+            "enable": true
+        }, 
+        [
+            1499559706, 
+            "技能相关UI事件注册", 
+            419496041, 
+            "action_type"
+        ], 
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "cc8a5ceefd6811eeb17e00ff9ff41afb"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 419496041000054, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "函数描述", 
+    "func_id": "d756144ffd3911eeb33e00ff9ff41afb", 
+    "func_name": "主界面UI事件注册", 
+    "group_id": "DfCb3vJNEe6j9nRWPDhWYm", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 419496041, 
+    "trigger_name": "主界面UI事件注册", 
+    "valid": true
+}
