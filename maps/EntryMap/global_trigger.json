@@ -1,0 +1,17 @@
+{
+    "eatriggers": [], 
+    "monitor": [
+        [
+            1, 
+            null, 
+            531410968, 
+            "strPos"
+        ], 
+        [
+            1, 
+            null, 
+            531410968, 
+            "strBegin"
+        ]
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                490.0, 
+                490.0, 
+                910.0, 
+                910.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        null, 
+                        null, 
+                        null, 
+                        null
+                    ], 
+                    "bg_image": "1a31b0fc-7a4a-4fa0-b2c5-1814a00bab67", 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 106384, 
+                            "name": "progress_bg_img", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    40.0, 
+                                    40.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    80, 
+                                    80
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "1a31b0fc-7a4a-4fa0-b2c5-1814a00bab67"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                -0.0, 
+                                -0.0, 
+                                0.0, 
+                                -0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 106385, 
+                            "name": "progress_bar_img", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    40.0, 
+                                    40.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    80, 
+                                    80
+                                ]
+                            }, 
+                            "type": 40, 
+                            "uid": "e05f4e38-2761-42de-9fad-1c73f2fa315f"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                true, 
+                                false, 
+                                true, 
+                                30.0, 
+                                30.0, 
+                                20.0, 
+                                20.0
+                            ], 
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    18
+                                ]
+                            }, 
+                            "name": "progress_percent_label", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    40.0, 
+                                    40.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    40, 
+                                    20
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "100", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "e6e2554f-4440-4138-96bd-051cf2e9a0ca", 
+                            "visible": false
+                        }
+                    ], 
+                    "current_value": 0.0, 
+                    "event_list": [], 
+                    "image": "e05f4e38-2761-42de-9fad-1c73f2fa315f", 
+                    "name": "\u5f15\u5bfc\u8fdb\u5ea6\u6761", 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            80, 
+                            80
+                        ]
+                    }, 
+                    "title_label": "e6e2554f-4440-4138-96bd-051cf2e9a0ca", 
+                    "type": 42, 
+                    "uid": "c860851f-2454-4a2b-b26a-b60442ce01f5"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u901a\u7528\u5f15\u5bfc", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 7, 
+            "uid": "0f175cdc-f67d-4e6b-9ce4-4299725c45c9", 
+            "visible": false
+        }
+    ], 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

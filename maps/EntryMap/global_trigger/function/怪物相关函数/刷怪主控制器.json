@@ -1,0 +1,42 @@
+{
+    "action": [
+        [
+            1001640937, 
+            "根据所选的刷怪表中的配置生成怪物", 
+            368988193, 
+            "action_type"
+        ], 
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "98f2589ed2ef11ee9353a40c6608934b"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 368988193640950, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "持续控制所有怪物刷新", 
+    "func_id": "d8dc4bb0794e11eeb59730d042e90e85", 
+    "func_name": "刷怪主控制器", 
+    "group_id": "wtBeIXSnEe6eGjDQQukOhe", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 368988193, 
+    "trigger_name": "刷怪主控制器", 
+    "valid": true
+}

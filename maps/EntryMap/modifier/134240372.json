@@ -1,0 +1,117 @@
+{
+    "local_variable": {
+        "1471840257": {
+            "variable_dict": {
+                "ABILITY": {
+                    "\u5f53\u524d\u6280\u80fd": null
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "1471840257": {
+            "action": [
+                {
+                    "action_type": "SET_HALO_MODIFIER_INF_RNG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [], 
+                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100076, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                                        }
+                                    ], 
+                                    "sub_type": "RELATED_ABILITY_MODIFIER"
+                                }, 
+                                {
+                                    "arg_type": 100078, 
+                                    "args_list": [
+                                        "ability_cast_range"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_FLOAT_ATTR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1471840257000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u6dfb\u52a0\u5149\u73af\u2014\u2014\u5149\u73af\u2014\u2014\u6b7b\u4ea1\u5438\u6536"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1439666179972282, 
+                    "enable": false
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1471840257000002, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134240372, 
+            "p_trigger_id": null, 
+            "trigger_id": 1471840257, 
+            "trigger_name": "\u83b7\u5f97\u6548\u679c", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1471840257, 
+                        "\u83b7\u5f97\u6548\u679c"
+                    ]
+                }
+            ], 
+            "key": 134240372, 
+            "name": "134240372"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "DYNAMIC_TRIGGER_INSTANCE": {}
+    }, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}
